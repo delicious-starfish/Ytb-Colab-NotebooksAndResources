@@ -1,0 +1,10 @@
+termcolor
+webvtt-py
+path.py
+flask
+python-Levenshtein
+SpeechRecognition 
+joblib
+tqdm
+numpy
+yt_dlp
